@@ -18,5 +18,7 @@ public class Solution {
         System.out.println("China: " + china);
         System.out.println("France: " + france);
     }
+    
+    //3
 }
 
